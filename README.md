@@ -1,6 +1,9 @@
 # Finetune-LLMs-using-LoRA-in-Colab-on-Custom-Datasets
 Finetune LLMs using LoRA in Colab on Custom Datasets
 
+## trainable params: 9,437,184 || all params: 2,859,194,368 || trainable%: 0.33006444422319176
+
+
 [Causal LLMs and Seq2Seq Architectures](https://heidloff.net/article/causal-llm-seq2seq/#sequence-to-sequence)
 
 
